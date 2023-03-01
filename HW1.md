@@ -1,5 +1,6 @@
 # NASA HW1
 
+[![hackmd-github-sync-badge](https://hackmd.io/hhFLHXlMTyelEds-NHPNjA/badge)](https://hackmd.io/hhFLHXlMTyelEds-NHPNjA)
 
 ## Patch
   ```shell!
